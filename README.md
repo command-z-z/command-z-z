@@ -14,6 +14,6 @@
 
 💻 I am MacOS and Arch Linux user, also addicted in Terminal with a NVIM enthusiast and hacking WMs. 
 
-🗄️ You can see my Terminal [dotfile](https://github.com/command-z-z/dotfiles) if you need, looking forword to your ⭐star.
+🗄️ You can see my Terminal [dotfile](https://github.com/command-z-z/dotfiles)  or NVIM [config](https://github.com/command-z-z/EugeneVim) if you need, looking forword to your ⭐star.
 
 
