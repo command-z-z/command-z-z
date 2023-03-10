@@ -10,7 +10,7 @@
 
 🤖 I am a senior student, I am interested in AI and Computer Vision:)
 
-🧘 I'm currently living at the intersection between the industry and academia.
+🧘 I am currently living at the intersection between the industry and academia.
 
 💻 I am MacOS and Arch Linux user, also addicted in Terminal with a NVIM enthusiast and hacking WMs. 
 
