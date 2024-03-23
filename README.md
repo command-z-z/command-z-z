@@ -6,13 +6,10 @@
 
 <!-- **command-z-z/command-z-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
+🧘 To be honest, I should touch grass, but the grass ran.
+
 🖐️ I am Eugene, from China, yet another average 24y/o guy pursuing  Master in Computer Science.
 
 🤖 I am a first-year graduate student, and interested in Computer Graphics/Vision.
 
-🧘 My current research focuces on 3D surface reconstrucion and Novel View Synthesis.
-
 💻 I am MacOS and Arch Linux user, also addicted in Terminal with a Neovim enthusiast and hacking WMs. 
-
-🗄️ You can see my Terminal [dotfile](https://github.com/command-z-z/dotfiles)  or Neovim [config](https://github.com/command-z-z/EugeneVim) if you need,.
-
