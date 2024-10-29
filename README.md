@@ -8,8 +8,8 @@
 
 🧘 To be honest, I should touch grass, but the grass ran.
 
-🖐️ I am Eugene, from China, yet another average25y/o guy pursuing  Master in Computer Science.
+🖐️I am Eugene, from China, yet another average 25 y/o guy pursuing  Master in Computer Science.
 
 🤖 I am a second-year graduate student, and interested in Computer Graphics/Vision and Robot Navigation.
 
-💻 I am MacOS and Arch Linux user, also addicted in Terminal with a Neovim enthusiast and hacking WMs. 
+💻 I am MacOS and Arch Linux developer, also addicted in Terminal with a Neovim enthusiast and hacking WMs. 
